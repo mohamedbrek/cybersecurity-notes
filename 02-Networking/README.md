@@ -47,9 +47,7 @@ Here I'm learning the following topics:
 
 ---
 
-## 🛠️ Used Tools
-
-In the process of learning networking I use the following tools:
+## 🛠️ Tools I use
 
 * Cisco Packet Tracer
 * Wireshark
