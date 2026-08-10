@@ -63,11 +63,11 @@ Cybersecurity-Notes
 ├── Linux
 ├── Networking
 ├── Cybersecurity Fundamentals
+├── TryHackMe
+├── Google Cybersecurity
 ├── Bash Scripting
 ├── Wireshark
 ├── Cisco
-├── TryHackMe
-├── Google Cybersecurity
 └── Resources
 ```
 
