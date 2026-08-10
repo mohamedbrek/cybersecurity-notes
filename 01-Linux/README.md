@@ -36,5 +36,5 @@ Linux-Practice
 ├── 02-File-Management
 ├── 03-File-Permissions
 ├── 04-Searching
-├── 05-Bash-Scripting
+└── 05-Bash-Scripting
 ```
