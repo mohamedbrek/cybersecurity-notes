@@ -81,7 +81,3 @@ Networking-Notes
 ```
 
 ---
-
-## 💡 How I Study
-
-I strongly believe that the best way to learn anything is to combine theory and practice. Every time I learn something new, I do my best to apply what I've learned in Cisco Packet Tracer.
