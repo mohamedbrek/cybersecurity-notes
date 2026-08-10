@@ -1,2 +1,2 @@
 # cybersecurity-notes
-Professional Cybersecurity notes covering Linux, networking, web security, cloud security, Python, and hands-on learning.
+Professional Cybersecurity notes covering Linux, networking, Python, and hands-on learning.
