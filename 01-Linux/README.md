@@ -29,6 +29,7 @@ As I continue learning, I'll keep updating this repository with new topics, scri
 
 ## 📂 Repository Structure
 
+```text
 Linux-Practice
 │
 ├── 01-Terminal-Basics
@@ -36,3 +37,4 @@ Linux-Practice
 ├── 03-File-Permissions
 ├── 04-Searching
 ├── 05-Bash-Scripting
+```
