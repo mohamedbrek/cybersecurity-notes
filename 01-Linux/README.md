@@ -27,3 +27,16 @@ As I continue learning, I'll keep updating this repository with new topics, scri
 - VirtualBox
 - Git & GitHub
 
+## 📂 Repository Structure
+
+Linux-Practice
+│
+├── README.md
+├── 01-Terminal-Basics
+├── 02-File-Management
+├── 03-File-Permissions
+├── 05-Searching
+├── 09-Bash-Scripting
+└── screenshots
+```
+
