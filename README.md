@@ -46,10 +46,11 @@ Some of the tools and platforms I use when studying are:
 
 * Ubuntu Linux
 * VirtualBox
+* TryHackMe
+* Google
 * Git & GitHub
 * Wireshark
 * Cisco Packet Tracer
-* TryHackMe
 * Visual Studio Code
 
 ---
